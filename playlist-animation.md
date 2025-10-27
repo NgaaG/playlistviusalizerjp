@@ -18,9 +18,7 @@ This tutorial creates a Processing sketch that displays animated dots pulsing to
 
 ---
 
-### Step 2: Copy Complete Code (2 minutes)
-
-**Copy and paste** this complete working code:
+### Step 2: Code
 
 ```java
 // Interactive Playlist Animation
@@ -213,23 +211,20 @@ void mouseMoved() {
 }
 ```
 
-**Checkpoint 2**: Code is pasted without syntax errors in Processing editor.
-
 ---
 
-### Step 3: Run and Test (30 seconds)
+### Step 2: Run and Test (30 seconds)
 
-1. **Click the Play button** (triangle) in Processing toolbar
-2. **Verify** you see pulsing dots in a circle with playlist title
+## CheckPoint 1: Output
+
+1. pulsing dots in a circle with playlist title
 3. **Click anywhere** to pause/resume animation
 4. **Press number keys** (1-4) to change mood and background color
 5. **Press 'R'** to reset the animation
 
-**Checkpoint 3**: Animation window shows pulsing dots, responds to clicks and key presses.
-
 ---
 
-## Understanding the Code Components
+## Breaking down the Code Components:
 
 ### Core Animation System:
 ```java
@@ -295,7 +290,7 @@ for (int i = 0; i < numDots; i++) {
 
 ---
 
-## Customization Options
+## Customization Options (future build-up)
 
 ### Add More Dots:
 ```java
@@ -335,7 +330,7 @@ dotY[i] = random(200, height-200);
 
 ---
 
-## Troubleshooting
+## Troubleshooting!!! 
 
 **Animation not visible:**
 - Check canvas size with `size(800, 600)`
