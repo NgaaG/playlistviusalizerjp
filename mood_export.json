@@ -1,0 +1,89 @@
+{
+  "mood_entries": [
+    {
+      "timestamp": "2025-10-17T14:30:00Z",
+      "location": {
+        "name": "Windmill Building Garden",
+        "latitude": 53.2012,
+        "longitude": 5.7979
+      },
+      "emotion": {
+        "primary": "content",
+        "intensity": 0.8,
+        "secondary": ["happy", "curious"]
+      },
+      "playlist": {
+        "name": "Epic Views"
+      },
+      "note": "Scenic spot with windmill views, ideal for contemplative breaks between classes"
+    },
+    {
+      "timestamp": "2025-10-17T13:15:00Z",
+      "location": {
+        "name": "Shopping Beats",
+        "latitude": 53.2045,
+        "longitude": 5.7856
+      },
+      "emotion": {
+        "primary": "neutral",
+        "intensity": 0.6,
+        "secondary": ["content"]
+      },
+      "playlist": {
+        "name": "Shopping Beats"
+      },
+      "note": "Neutral mood while running errands"
+    },
+    {
+      "timestamp": "2025-10-17T12:00:00Z",
+      "location": {
+        "name": "Coffeeshop Vibes",
+        "latitude": 53.2023,
+        "longitude": 5.7891
+      },
+      "emotion": {
+        "primary": "happy",
+        "intensity": 0.9,
+        "secondary": ["curious"]
+      },
+      "playlist": {
+        "name": "Coffeeshop Vibes"
+      },
+      "note": "Great coffee and atmosphere for studying"
+    },
+    {
+      "timestamp": "2025-10-17T10:45:00Z",
+      "location": {
+        "name": "Epic Views",
+        "latitude": 53.2067,
+        "longitude": 5.7834
+      },
+      "emotion": {
+        "primary": "curious",
+        "intensity": 0.7,
+        "secondary": ["happy"]
+      },
+      "playlist": {
+        "name": "Epic Views"
+      },
+      "note": "Amazing scenery for morning reflection"
+    },
+    {
+      "timestamp": "2025-10-16T16:20:00Z",
+      "location": {
+        "name": "Campus Library",
+        "latitude": 53.2058,
+        "longitude": 5.7825
+      },
+      "emotion": {
+        "primary": "content",
+        "intensity": 0.75,
+        "secondary": ["trust"]
+      },
+      "playlist": {
+        "name": "Study Focus"
+      },
+      "note": "Productive study session"
+    }
+  ]
+}
